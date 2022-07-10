@@ -33,7 +33,7 @@ telegraph
 googletrans==4.0.0rc1
 gTTS
 
-aiohttp==3.7.4
+aiohttp==3.8.1
 aiofiles
 datetime
 tgcrypto
